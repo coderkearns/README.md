@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Golang, Astro.js, and anything you're willing to teach.**
 
-- 👨‍💻 Find my projects at [github.com/coderkearns](github.com/coderkearns)
+- 👨‍💻 Find my projects at [github.com/coderkearns](https://github.com/coderkearns)
 
 - 💬 Ask me about **Javascript's weird pitfalls... I'll see what I can dig up**
 
