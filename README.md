@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm coderkearns</h1>
 <h3 align="center">A frontend/backend developer and perpetual student.</h3>
 
-- 🌱 I’m currently learning **Golang, Astro.js, and anything you're willing to teach.**
+- 🌱 I’m currently learning **Golang, Astro.js, Javascript framework internals, and anything you're willing to teach.**
 
 - 👨‍💻 Find my projects at [github.com/coderkearns](https://github.com/coderkearns)
-
-- 💬 Ask me about **Javascript's weird pitfalls... I'll see what I can dig up**
 
 - 📫 How to reach me **coder.kearns@gmail.com**
 
