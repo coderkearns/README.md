@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm coderkearns</h1>
 <h3 align="center">A frontend/backend developer and perpetual student.</h3>
 
-- 🌱 I’m currently learning **Golang, Astro.js, Javascript framework internals, and some basic web design.**
+- 🌱 I’m currently learning **Golang, Javascript framework internals, and some web design.**
 
 - 👨‍💻 Find my projects at [github.com/coderkearns](https://github.com/coderkearns)
 
