@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm coderkearns</h1>
 <h3 align="center">A frontend/backend developer and perpetual student.</h3>
 
-> 😁 Currently on haitus until November 2025, as I will be on a religous mission-trip. Until then, see y'all!
+> 😴 Currently on haitus until November 2025, as I will be on a religous mission-trip. Until then, see y'all!
 
 - 👨‍💻 Find my projects at [github.com/coderkearns](https://github.com/coderkearns)
 
