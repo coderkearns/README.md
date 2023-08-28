@@ -3,11 +3,6 @@
 
 > 😴 Currently on hiatus until November 2025, as I will be on a [religious mission-trip](https://newsroom.churchofjesuschrist.org/topic/missionary-program). Until then, see y'all!
 
-- 👨‍💻 Find my projects at [github.com/coderkearns](https://github.com/coderkearns)
-
-- 📫 Reach me at **coder.kearns@gmail.com**
-
-
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
     <a href="https://babeljs.io/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40" />
