@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm coderkearns</h1>
 
-> <strong>😴 Disconnected until November 2025, as I will be on a [religious mission trip](https://newsroom.churchofjesuschrist.org/topic/missionary-program)! Feel free to mention me I guess, but I won't see it for a while (;<strong>
+> 😴 Disconnected until November 2025, as I will be on a [mission trip](https://www.churchofjesuschrist.org/comeuntochrist/belong/share-goodness/who-are-the-missionaries) for The Church of Jesus Christ of Latter-Day Saints! Feel free to mention me I guess, but I won't see it for a while (;
 
 <h4 align="left">Languages and Tools:</h4>
 <p align="left">
