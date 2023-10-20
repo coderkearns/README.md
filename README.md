@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm coderkearns</h1>
-<h3 align="center">A frontend/backend developer and perpetual student.</h3>
 
-> 😴 Currently on hiatus until November 2025, as I will be on a [religious mission-trip](https://newsroom.churchofjesuschrist.org/topic/missionary-program). Until then, see y'all!
+> <strong>😴 Disconnected until November 2025, as I will be on a [religious mission trip](https://newsroom.churchofjesuschrist.org/topic/missionary-program)! Feel free to mention me I guess, but I won't see it for a while (;<strong>
 
-<h3 align="left">Languages and Tools:</h3>
+<h4 align="left">Languages and Tools:</h4>
 <p align="left">
     <a href="https://babeljs.io/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40" />
     <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40" /><a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" /></a>
@@ -27,14 +26,14 @@
 
 
 
-<h3 align="left">Support:</h3>
+<h4 align="left">Support:</h4>
 <p><a href="https://www.buymeacoffee.com/coderkearns"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="coderkearns" /></a></p><br><br>
 
-<hr/>
+<!-- <hr/> -->
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=coderkearns&show_icons=true&locale=en&layout=compact" alt="coderkearns" /></p>
+<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=coderkearns&show_icons=true&locale=en&layout=compact" alt="coderkearns" /></p> -->
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=coderkearns&show_icons=true&locale=en" alt="coderkearns" /></p>
+<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=coderkearns&show_icons=true&locale=en" alt="coderkearns" /></p> -->
 
 <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=coderkearns&" alt="coderkearns" /></p> -->
 
